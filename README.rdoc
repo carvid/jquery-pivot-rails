@@ -1,3 +1,3 @@
-= Jquery-pivot-rails
+= Jquery Pivot for Rails
 
-This project rocks and uses MIT-LICENSE.
+This gem adds jQuery Pivot files to rails assets pipeline.
