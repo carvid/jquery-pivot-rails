@@ -1,0 +1,3 @@
+module JqueryPivotRails
+  VERSION = ""
+end
